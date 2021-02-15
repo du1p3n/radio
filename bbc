@@ -2,53 +2,53 @@
   "radios": [
     {
       "name": "BBC - Radio 1",
-      "logo": "ZuzEzqu",
-      "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p"
-    },
-    {
-      "name": "BBC - Radio 2",
-      "logo": "c0nPHFZ",
-      "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p"
-    },
-    {
-      "name": "BBC - Radio 3",
-      "logo": "Z5fF8Yz",
-      "url": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-aac-lc-a/format/pls/vpid/bbc_radio_three.pls"
-    },
-    {
-      "name": "BBC - Radio 4",
-      "logo": "KvgUAbt",
-      "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p"
-    },
-    {
-      "name": "BBC - Radio 5 live",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/BBC_Radio_5_Live.svg/440px-BBC_Radio_5_Live.svg.png",
-      "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p"
-    },
-    {
-      "name": "BBC - Radio 6",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/BBC_Radio_6_Music.svg/1200px-BBC_Radio_6_Music.svg.png",
-      "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p"
+      "logo": "Kn5s3Pv",
+      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_one.mpd"
     },
     {
       "name": "BBC - Radio 1 Extra",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BBC_Radio_1Xtra.svg/1200px-BBC_Radio_1Xtra.svg.png",
-      "url": "http://www.bbc.co.uk/radio/listen/live/r1x_aaclca.pls"
+      "logo": "qogvJVV",
+      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_1xtra.mpd"
+    },
+    {
+      "name": "BBC - Radio 2",
+      "logo": "Gf7LfwX",
+      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_two.mpd"
+    },
+    {
+      "name": "BBC - Radio 3",
+      "logo": "F76gqAT",
+      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_three.mpd"
+    },
+    {
+      "name": "BBC - Radio 4",
+      "logo": "D15SeGl",
+      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_fourfm.mpd"
     },
     {
       "name": "BBC - Radio 4 Extra",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/BBC_Radio_4_Extra.svg/1280px-BBC_Radio_4_Extra.svg.png",
-      "url": "http://www.bbc.co.uk/radio/listen/live/r4x_aaclca.pls"
+      "logo": "C0SXqSA",
+      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/llnws/bbc_radio_four_extra.mpd"
+    },
+    {
+      "name": "BBC - Radio 5 live",
+      "logo": "mntFIDz",
+      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_five_live.mpd"
     },
     {
       "name": "BBC - Radio 5 Live sports extra",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Radio_5_Live_Sports_Extra.svg/1200px-BBC_Radio_5_Live_Sports_Extra.svg.png",
-      "url": "http://www.bbc.co.uk/radio/listen/live/r5lsp_aaclca.pls"
+      "logo": "XqdY1pL",
+      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/uk/dash_full/aks/bbc_radio_five_live_sports_extra.mpd"
+    },
+    {
+      "name": "BBC - Radio 6",
+      "logo": "DJknO2o",
+      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/llnws/bbc_6music.mpd"
     },
     {
       "name": "BBC - Radio Asian Network",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Asian_Network.svg/1200px-BBC_Asian_Network.svg.png",
-      "url": "http://www.bbc.co.uk/radio/listen/live/ran_aaclca.pls"
+      "logo": "MvEHLYl",
+      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/llnws/bbc_asian_network.mpd"
     }
   ]
 }
