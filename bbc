@@ -3,51 +3,61 @@
     {
       "name": "BBC - Radio 1",
       "logo": "Kn5s3Pv",
+      "fav": 0,
       "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_one.mpd"
     },
     {
       "name": "BBC - Radio 1 Extra",
       "logo": "qogvJVV",
+      "fav": 0,
       "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_1xtra.mpd"
     },
     {
       "name": "BBC - Radio 2",
       "logo": "Gf7LfwX",
+      "fav": 0,
       "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_two.mpd"
     },
     {
       "name": "BBC - Radio 3",
       "logo": "F76gqAT",
+      "fav": 0,
       "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_three.mpd"
     },
     {
       "name": "BBC - Radio 4",
       "logo": "D15SeGl",
+      "fav": 0,
       "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_fourfm.mpd"
     },
     {
       "name": "BBC - Radio 4 Extra",
       "logo": "C0SXqSA",
+      "fav": 0,
       "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/llnws/bbc_radio_four_extra.mpd"
     },
     {
       "name": "BBC - Radio 5 live",
       "logo": "mntFIDz",
+      "fav": 0,
       "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_five_live.mpd"
     },
     {
       "name": "BBC - Radio 5 Live sports extra",
       "logo": "XqdY1pL",
+      "fav": 0,
       "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/uk/dash_full/aks/bbc_radio_five_live_sports_extra.mpd"
     },
     {
       "name": "BBC - Radio 6",
       "logo": "DJknO2o",
+      "fav": 0,
       "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/llnws/bbc_6music.mpd"
     },
     {
       "name": "BBC - Radio Asian Network",
       "logo": "MvEHLYl",
+      "fav": 0,
       "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/llnws/bbc_asian_network.mpd"
     }
   ]
