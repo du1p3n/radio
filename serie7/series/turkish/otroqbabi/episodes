@@ -1,10 +1,19 @@
 {
 
-"episdoes"[
-{
-"id":1,
-"url": "test"
-}
-]
-
+	"episdoes": [{
+			"id": 1,
+			"url": "test"
+		},
+		{
+			"id": 2,
+			"url": "test"
+		},
+		{
+			"id": 3,
+			"url": "test"
+		}, {
+			"id": 4,
+			"url": "test"
+		}
+	]
 }
