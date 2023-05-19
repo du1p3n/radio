@@ -2,18 +2,18 @@
 
 	"episodes": [{
 			"id": 1,
-			"url": "test"
+			"url": "https://cdn-cash-vroba-fr1-cfg.dailymotions.cam/hls/ftg47cxspvh473xqlsgeadtjftiw5xgvaa5awugjx,f53szjstgyjlpybxcga,ov3qzjstgyexgmkms2q,.urlset/master.m3u8"
 		},
 		{
 			"id": 2,
-			"url": "test"
+			"url": "https://cdn-cash-vroba-fr1-cfg.dailymotions.cam/hls/ftg47cxspvh473xqlsgeadtjftiw5xgvaa5awugjx,f53szjstgyjlpybxcga,ov3qzjstgyexgmkms2q,.urlset/master.m3u8"
 		},
 		{
 			"id": 3,
-			"url": "test"
+			"url": "https://cdn-cash-vroba-fr1-cfg.dailymotions.cam/hls/ftg47cxspvh473xqlsgeadtjftiw5xgvaa5awugjx,f53szjstgyjlpybxcga,ov3qzjstgyexgmkms2q,.urlset/master.m3u8"
 		}, {
 			"id": 4,
-			"url": "test"
+			"url": "https://cdn-cash-vroba-fr1-cfg.dailymotions.cam/hls/ftg47cxspvh473xqlsgeadtjftiw5xgvaa5awugjx,f53szjstgyjlpybxcga,ov3qzjstgyexgmkms2q,.urlset/master.m3u8"
 		}
 	]
 }
