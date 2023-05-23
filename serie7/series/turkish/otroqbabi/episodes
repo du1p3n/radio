@@ -1,19 +1,86 @@
 {
 
-	"episodes": [{
-			"id": 1,
-			"url": "https://vidspeeds.com/embed-75bbac3d9t89.html"
-		},
-		{
-			"id": 2,
-			"url": "https://youtu.be/32eKwfY_SHk"
-		},
-		{
-			"id": 3,
-			"url": "https://www.tiktok.com/@kawtarsamihoff/video/7226441295324040454?is_from_webapp=1&sender_device=pc"
-		}, {
-			"id": 4,
-			"url": "https://vidoba.net/embed-p3uk49ezbdv2.html"
-		}
-	]
+	"episodes": 
+	[
+{
+"url": "https://www.dailymotion.com/video/kGCrAJOQtY7IXZxl7a1?syndication=273805",
+"id": 1
+},
+{
+"url": "https://www.dailymotion.com/video/k22RobKPo8nQGIxyyky?syndication=273805",
+"id": 2
+},
+{
+"url": "https://www.dailymotion.com/video/k7CNm0Rc1Sgc7Gxz1FP?syndication=273805",
+"id": 3
+},
+{
+"url": "https://www.dailymotion.com/video/k4XYGKrLkcJpB5xCHoI?syndication=273805",
+"id": 4
+},
+{
+"url": "https://www.dailymotion.com/video/k2Ltb2Q1Jtm4H1xCHoJ?syndication=273805",
+"id": 5
+},
+{
+"url": "https://www.dailymotion.com/video/k35ChzNNBJ18xFxCHoK?syndication=273805",
+"id": 6
+},
+{
+"url": "https://www.dailymotion.com/video/k7ki3149RCBORExCHoL?syndication=273805",
+"id": 7
+},
+{
+"url": "https://www.dailymotion.com/video/k6ilpJtlrWa8bfxCHoN?syndication=273805",
+"id": 8
+},
+{
+"url": "https://www.dailymotion.com/video/k6KF4PHUex3K4hxCHoO?syndication=273805",
+"id": 9
+},
+{
+"url": "https://www.dailymotion.com/video/k3PeIM10uZos2XxCHoP?syndication=273805",
+"id": 10
+},
+{
+"url": "https://www.dailymotion.com/video/k4jmzG6q8T93wtxkYOZ?syndication=273805",
+"id": 11
+},
+{
+"url": "https://www.dailymotion.com/video/k6kb1v8tmwgTgzxkYP0?syndication=273805",
+"id": 12
+},
+{
+"url": "https://www.dailymotion.com/video/k5qXeJju7SZDlsxDBgl?syndication=273805",
+"id": 13
+},
+{
+"url": "https://www.dailymotion.com/video/k5RIWvD3KGenwcxDBgm?syndication=273805",
+"id": 14
+},
+{
+"url": "https://www.dailymotion.com/video/k585c6hkgvCaqUxDBgn?syndication=273805",
+"id": 15
+},
+{
+"url": "https://www.dailymotion.com/video/k4s5qLfxDPPeE4xDBgo?syndication=273805",
+"id": 16
+},
+{
+"url": "https://www.dailymotion.com/video/kf7eadxsyptSoJxDBgp?syndication=273805",
+"id": 17
+},
+{
+"url": "https://www.dailymotion.com/video/k61LQTJEZ4akZFxDBgq?syndication=273805",
+"id": 18
+},
+{
+"url": "https://www.dailymotion.com/video/knLkGkRw37pkWCxDBgr?syndication=273805",
+"id": 19
+},
+{
+"url": "https://www.dailymotion.com/video/k2o9gFyVhaPk5LxDBgs?syndication=273805",
+"id": 20
+}
+]
 }
